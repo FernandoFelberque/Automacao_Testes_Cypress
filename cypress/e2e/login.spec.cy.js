@@ -1,6 +1,10 @@
 /// <reference types ="cypress"/>
 context('Funcionalidade Login', () => 
 {
+    beforeEach(() => {
+        cy.visit('http://lojaebac.ebaconline.art.br/my-account/')
+    });
+
     it('Deve fazer login com sucesso', () =>{
         cy.visit('http://lojaebac.ebaconline.art.br/my-account/')
         cy.get('#username').type('aluno_ebac@teste.com')
