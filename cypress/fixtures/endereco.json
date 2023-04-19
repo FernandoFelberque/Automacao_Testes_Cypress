@@ -1,0 +1,41 @@
+[
+    {
+        "nome": "Ana",
+        "sobrenome": "Luiza",
+        "empresa": "Nike",
+        "pais": "Brasil",
+        "rua": "Hugo Mesquita",
+        "numero": "15",
+        "cidade": "Urbelandia",
+        "estado": "Minas Gerais",
+        "cep": "31311000",
+        "telefone": "31333333333",
+        "email": "analuizateste@gmail.com"
+    },
+    {
+        "nome": "Leo",
+        "sobrenome": "Souza",
+        "empresa": "Puma",
+        "pais": "Brasil",
+        "rua": "clara azul",
+        "numero": "89",
+        "cidade": "Juiz de Fora",
+        "estado": "Minas Gerais",
+        "cep": "31222200",
+        "telefone": "31336663333",
+        "email": "leosouzaazul@gmail.com"
+    },
+    {
+        "nome": "Clara",
+        "sobrenome": "Maria",
+        "empresa": "Guarana",
+        "pais": "Brasil",
+        "rua": "Amazonia",
+        "numero": "789",
+        "cidade": "Alem Paraiba",
+        "estado": "Minas Gerais",
+        "cep": "34444000",
+        "telefone": "31333399993",
+        "email": "claraamazioniamaria@gmail.com"
+    }
+]
